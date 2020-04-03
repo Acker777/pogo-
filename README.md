@@ -5,7 +5,7 @@
 /---教程有什么部分遗漏的内容也可以向我反馈---/
 
 安卓玩pokemongo教程（刷机方法，非vmos）
-下载地址：https://github.com/Acker777/pogo-/blob/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx?raw=true
+下载地址：https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx
 
 非root方法：https://tieba.baidu.com/p/6233970978?pn=1
 

@@ -3,8 +3,9 @@
 /---有什么问题可以找我---/
 
 /---教程有什么部分遗漏的内容也可以向我反馈---/
+安卓玩pokemongo教程（不带刷机教程，不用rom包）：https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx
 
-安卓玩pokemongo教程（刷机方法，非vmos）
+安卓玩pokemongo教程（附带刷机教程）
 下载地址：https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx
 
 非root方法(成功率不高，反正我自己的机型没成功过)：https://tieba.baidu.com/p/6233970978?pn=1

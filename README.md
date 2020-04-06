@@ -3,6 +3,9 @@
 /---有什么问题可以找我，小白问题自己多看看，多学学就能解决了，小白问题就别来问我了---/
 
 /---教程有什么部分遗漏的内容也可以向我反馈---/
+
+安卓玩pokemongo教程（不用root，twrp版）：https://github.com/Acker777/pogo-/raw/master/pokemongo%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B%EF%BC%88twrp%E7%89%88%EF%BC%89.docx
+
 安卓玩pokemongo教程（不带刷机教程，不用rom包）：https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx
 
 安卓玩pokemongo教程（附带刷机教程）

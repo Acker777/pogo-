@@ -13,6 +13,8 @@
 Smali Patcher刷入教程（xda的，我懒得写了）：https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053
 
 非root方法(成功率不高，反正我自己的机型没成功过)：https://tieba.baidu.com/p/6233970978?pn=1
+https://github.com/Acker777/pogo-/raw/master/pokemongo%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B%EF%BC%88twrp%E7%89%88%EF%BC%89.docx
+
 
 twrp汇总：https://github.com/Acker777/pogo-/raw/master/twrp%E6%9C%BA%E5%9E%8B%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E6%B1%87%E6%80%BB20191019-wzsx150.xls
 

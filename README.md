@@ -20,7 +20,8 @@
 
 * [Smali Patcher刷入教程](https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053)<br>
 
-* [降低Google服务方法](https://tieba.baidu.com/p/6233970978?pn=1)<br>
+* [降低Google服务方法](https://tieba.baidu.com/p/6233970978?pn=1) <br> 
+* [谷歌服务下载](https://www.apkmirror.com/apk/google-inc/google-play-services/)<br> 
 
 * [twrp汇总](https://pan.baidu.com/s/1Xc01lbj927ncx6tO3NxKUA) 提取码: pogo<br>
 

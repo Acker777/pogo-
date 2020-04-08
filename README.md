@@ -24,7 +24,7 @@
 
 <a href="https://github.com/Acker777/pogo-/raw/master/twrp%E6%9C%BA%E5%9E%8B%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E6%B1%87%E6%80%BB20191019-wzsx150.xls">twrp汇总</a>
 
-<a href="https://twrp.me/">twrp官网</a>
+<a href="https://twrp.me/Devices//">twrp官网</a>
 
 
 

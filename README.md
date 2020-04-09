@@ -8,7 +8,7 @@
 
 * <a href="https://github.com/Acker777/pogo-/raw/master/pokemongo%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B%EF%BC%88twrp%E7%89%88%EF%BC%89.docx">安卓玩pokemongo教程（twrp版）</a>
 
-* <a href="https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C*%85).docx">安卓玩pokemongo教程（不用rom包）</a>
+* [安卓玩pokemongo教程（不用rom包）](https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx)
 
 * <a href="https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx">安卓玩pokemongo教程</a>
 

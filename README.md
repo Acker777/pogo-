@@ -23,9 +23,9 @@
 * [降低Google服务方法](https://tieba.baidu.com/p/6233970978?pn=1) <br> 
 * [谷歌服务下载](https://www.apkmirror.com/apk/google-inc/google-play-services/)<br> 
 
-* [twrp汇总](https://pan.baidu.com/s/1Xc01lbj927ncx6tO3NxKUA) 提取码: pogo<br>
+* [twrp汇总](https://pan.baidu.com/s/1Xc01lbj927ncx6tO3NxKUA) 提取码: pogo<br>  [twrp官网](https://twrp.me/Devices//)
 
-* [twrp官网](https://twrp.me/Devices//)
+* [magisk GitHub](https://github.com/topjohnwu/Magisk/releases)
 
 
 

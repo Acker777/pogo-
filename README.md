@@ -24,7 +24,7 @@
 * [twrp汇总](https://pan.baidu.com/s/1Xc01lbj927ncx6tO3NxKUA) 提取码: pogo<br>  [twrp官网](https://twrp.me/Devices//)
 
 * [magisk GitHub](https://github.com/topjohnwu/Magisk/releases)<br>
-* [apkmirror](https://www.apkmirror.com/)
+* [apkMirror](https://www.apkmirror.com/)
 
 
 

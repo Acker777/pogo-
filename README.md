@@ -1,6 +1,7 @@
 # pogo-安卓教程
 
 /---<b>有任何问题的请自行解决</b>---/
+* [安卓无root懒人版](https://www.pgsharp.com/)
 
 * [安卓玩pokemongo教程（不用rom包）](https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx)（能刷入twrp几乎百分百成功）
 

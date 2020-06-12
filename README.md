@@ -1,20 +1,15 @@
 # pogo-安卓教程
 
-/---教程有什么部分遗漏的内容也可以向我反馈---/
+/---<b>有任何问题的请自行解决</b>---/
 
-/---若不清楚下哪个，全都下了，看每个文档的目录，根据你自己情况用那个，下列教程从上往下依次复杂---/
+* [安卓玩pokemongo教程（不用rom包）](https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx)（能刷入twrp几乎百分百成功）
 
-* <a href="https://github.com/Acker777/pogo-/raw/master/pokemongo%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B%EF%BC%88twrp%E7%89%88%EF%BC%89.docx">安卓玩pokemongo教程（twrp版）</a>（不建议用，twrp挂载joystick可能不成功，而且能刷twrp就能刷面具，干脆直接用下面的教程）
-
-* [安卓玩pokemongo教程（不用rom包）](https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B(%E4%B8%8D%E7%94%A8rom%E5%8C%85).docx)（最推荐用，能刷入twrp几乎百分百成功）
-
-* <a href="https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx">安卓玩pokemongo教程</a>（上个教程附加了刷机教程）
+* <a href="https://github.com/Acker777/pogo-/raw/master/pokemon%20go%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B.docx">安卓玩pokemongo教程</a>（上个教程附加了卡刷教程）
 
 
 
 
 ## 扩展内容：
-
 
 * [Smali Patcher刷入教程](https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053)<br>
 
